@@ -1,5 +1,5 @@
 <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/f32890e0-ede7-4ad2-8917-93d0073c4812" /><div id="header" align="center">
-  <img src="https://media1.tenor.com/m/aJ3-X4llgN8AAAAd/agnes-tachyon-uma-musume.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/aJ3-X4llgN8AAAAd/agnes-tachyon-uma-musume.gif" width="450"/>
 </div>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2500&color=F7735B&center=true&random=true&width=435&lines=Java+developer;Python+developer;Full-stack+web+develoer;4%2B+years+of+coding+experience;C%23+developer;Go+developer;Game+developer;UX%2FUI+designer" alt="Typing SVG" /></a>
