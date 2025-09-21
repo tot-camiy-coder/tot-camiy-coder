@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ti8tWaijWfZ.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/3v2NjjNIF-EAAAAC/agnes-tachyon-umamusume.gif" width="100"/>
 </div>
 
 <!--
